@@ -1,7 +1,8 @@
 LCD refactor
 
 En este proyecto consiguen la versión de https://github.com/pslcorp/lcdrefactor lugo de realizar un refactor
-En los.java:
+en los.java:
+<br>
 -LCDTester.java
 -ImpresorLCD.java
 
