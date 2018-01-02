@@ -6,6 +6,6 @@ en los.java:
 -LCDTester.java<br>
 -ImpresorLCD.java
 
-Adicionalmente en la carpeta LCD esta el proyecto que se usó en Eclipse para poder crear pruebas automáticas y realizar el refractor.
+Adicionalmente en la carpeta LCD corresponde al proyecto que se usó en Eclipse para poder crear pruebas automáticas y realizar el refractor.
 
 Adicionalmente se creó ImpresorLCD.py, donde se realizó el ejercicio desde cero en Python.
